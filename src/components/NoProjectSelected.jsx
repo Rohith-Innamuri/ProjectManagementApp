@@ -9,6 +9,7 @@ export default function NoProjectSelected({ onStartAddProject }) {
         alt="An empty task list"
         className="w-16 h-16 object-contain mx-auto"
       />
+
       <h2 className="text-xl font-bold text-stone-500 my-4">
         Select a project or get started with a new one
       </h2>
